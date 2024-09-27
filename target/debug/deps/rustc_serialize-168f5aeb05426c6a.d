@@ -1,0 +1,10 @@
+F:\Code\blockchain1\target\debug\deps\librustc_serialize-168f5aeb05426c6a.rmeta: F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\lib.rs F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\serialize.rs F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\collection_impls.rs F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\base64.rs F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\hex.rs F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\json.rs
+
+F:\Code\blockchain1\target\debug\deps\rustc_serialize-168f5aeb05426c6a.d: F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\lib.rs F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\serialize.rs F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\collection_impls.rs F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\base64.rs F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\hex.rs F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\json.rs
+
+F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\lib.rs:
+F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\serialize.rs:
+F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\collection_impls.rs:
+F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\base64.rs:
+F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\hex.rs:
+F:\rust\cargo_home\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\json.rs:

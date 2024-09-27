@@ -13,4 +13,3 @@ cargo:rustc-check-cfg=cfg(super_unstable)
 cargo:rustc-check-cfg=cfg(wrap_proc_macro)
 cargo:rerun-if-changed=build/probe.rs
 cargo:rustc-cfg=wrap_proc_macro
-cargo:rerun-if-env-changed=RUSTC_BOOTSTRAP
